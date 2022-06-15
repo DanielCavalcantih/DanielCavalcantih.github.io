@@ -340,7 +340,7 @@ nav a:hover{
     margin-top: 50px;
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (max-width: 900px) {
     header {
         position: static;
         height: 620px;
